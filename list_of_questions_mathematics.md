@@ -5,8 +5,10 @@
 - What are scalars, vectors, matrices, and tensors? 
 
 Answer： 
-         1. Scalars are single numbers and are an example of a 0th-order tensor.
-         2. Vectors are ordered arrays of single numbers and are an example of 1st-order tensor.
+1. Scalars are single numbers and are an example of a 0th-order tensor.
+1. Vectors are ordered arrays of single numbers and are an example of 1st-order tensor.
+         
+         
 1. What is Hadamard product of two matrices?
 1. What is an inverse matrix?
 1. If inverse of a matrix exists, how to calculate it?
