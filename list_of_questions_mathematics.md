@@ -4,7 +4,8 @@
 1. What is broadcasting in connection to Linear Algebra?
 - What are scalars, vectors, matrices, and tensors? 
 
-Answer： - Scalars are single numbers and are an example of a 0th-order tensor.
+Answer： 
+         - Scalars are single numbers and are an example of a 0th-order tensor.
          - Vectors are ordered arrays of single numbers and are an example of 1st-order tensor.
 1. What is Hadamard product of two matrices?
 1. What is an inverse matrix?
