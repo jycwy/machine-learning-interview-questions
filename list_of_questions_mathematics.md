@@ -7,9 +7,10 @@
 Answer： 
 1. Scalars are single numbers and are an example of a 0th-order tensor.
 1. Vectors are ordered arrays of single numbers and are an example of 1st-order tensor.
+1. Matrices are rectangular arrays consisting of numbers and are an example of 2nd-order tensors.
+1. The more general entity of a tensor encapsulates the scalar, vector and the matrix.
          
-         
-1. What is Hadamard product of two matrices?
+- What is Hadamard product of two matrices?
 1. What is an inverse matrix?
 1. If inverse of a matrix exists, how to calculate it?
 1. What is the determinant of a square matrix? How is it calculated (Laplace expansion)? What is the connection of determinant to eigenvalues?
